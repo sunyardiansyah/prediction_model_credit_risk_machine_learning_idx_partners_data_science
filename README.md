@@ -1,6 +1,6 @@
 # Machine Learning Prediction Model Credit Risk  
 ## id/x partners x Rakamin Academy  
-## by Suny Guinesya Ardiansyah  
+by Suny Guinesya Ardiansyah  
 
 Source  
 * dataset loan_data_2007_2014 yang tersedia  
